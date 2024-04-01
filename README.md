@@ -1,5 +1,7 @@
 # NessusExporter
 
+![Nessus Logo](img/NessusExporter.png)
+
 ## Overview
 NessusExporter is a Python script designed to extract information from `.nessus` files using the Nessus API. It reads XML values and extracts necessary information to create better reporting formatting for Nessus Scans. The default formatting provided by Nessus might not always meet specific requirements, hence this tool aims to offer more customized reporting options.
 
